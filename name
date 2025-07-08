@@ -1,0 +1,1937 @@
+
+
+
+<!DOCTYPE html>
+
+<html id="html">
+
+<head><meta charset="utf-8" /><title>
+	150 Famous Male Actors
+</title>
+        <script async src="/scripts/quantcast.js"></script>
+        <link rel="preload" as="script" href="https://www.googletagservices.com/tag/js/gpt.js" />
+        <script async src="https://dn0qt3r0xannq.cloudfront.net/listchallenges-BUQl0kCxtF/listchallenges-longform/prebid-load.js"></script>
+        
+
+        <link href="https://fonts.googleapis.com/css?family=Poppins:300,400|Roboto" rel="stylesheet">
+
+        <link href="/bundles/app-styles?v=QVFzFx6MgLKyO_7reGpchiMuYh0c7h4MddZYqbij34E1" rel="stylesheet"/>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-965F4245JC"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-965F4245JC');
+        </script>
+        <link href="/favicon.png" rel="icon" type="image/png" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+
+    <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c9aaa2bfb6af900122ece55&product=inline-share-buttons' async='async'></script>
+<meta property="og:title" content="150 Famous Male Actors" />
+<link rel="canonical" href="https://www.listchallenges.com/150-famous-male-actors" />
+<meta property="og:url" content="https://www.listchallenges.com/150-famous-male-actors" />
+<link rel="image_src" href="https://www.listchallenges.com/f/lists/3bdf8db9-2902-48f7-9164-6b2965eaf93f.jpg" />
+<meta property="og:image" content="https://www.listchallenges.com/f/lists/3bdf8db9-2902-48f7-9164-6b2965eaf93f.jpg" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="315" />
+<meta property="og:type" content="article" />
+<meta name="description" content="How many of these actors have you watched in the screens?
+How many of these have you seen in movies?" />
+<meta property="og:description" content="How many of these actors have you watched in the screens?
+How many of these have you seen in movies?" />
+<link rel="apple-touch-icon" href="/i/logo-big.png" />
+<meta property="fb:app_id" content="253841154742565" />
+<meta property="og:site_name" content="List Challenges" />
+</head>
+
+<body id="body">
+
+    
+
+    <div class="backdrop" onclick="app.setBodyState('');" style="visibility: hidden"></div>
+    <div class="toast"></div>
+    
+
+<header class="header shadow-4">
+	<div class="header-content">
+		<div class="header-button header-buttonMenu" onclick="header.menuButtonClick()">
+			<span class="visible-IE glyphicon glyphicon-menu-hamburger"></span>
+			<span class="hidden-IE">
+				<i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-list"></use></svg></i>
+			</span>
+		</div>
+		<div class="header-titleWrapper">
+			<a class="header-button header-title" href="/">
+				<img src="/i/logo-title.png" alt="List Challenges" />
+			</a>
+		</div>
+		<div class="flex-grow1 hidden-xs hidden-sm"></div>
+		<a class="header-button header-buttonCategory"
+			href="/movies"
+			data-category="movies">
+			<span class="button-text">Movies</span>
+			<span class="caret"></span>
+		</a>
+		<a class="header-button header-buttonCategory"
+			href="/books"
+			data-category="books">
+			<span class="button-text">Books</span>
+			<span class="caret"></span>
+		</a>
+        <a class="header-button header-buttonCategory"
+           href="/travel"
+           data-category="travel">
+            <span class="button-text">Travel</span>
+            <span class="caret"></span>
+        </a>
+		<a class="header-button header-buttonCategory"
+			href="/food"
+			data-category="food">
+			<span class="button-text">Food</span>
+			<span class="caret"></span>
+		</a>
+		<a data-category="other" class="header-button header-buttonCategory"
+			href="/other">
+			<span class="button-text">Other</span>
+			<span class="caret"></span>
+		</a>
+		<div class="flex-grow1"></div>
+			
+		
+		<form id="formSearch" action="/lists/search" method="get" class="header-search">
+			<input autocomplete="off" type="search" maxlength="100" placeholder="search lists" name="s" />
+			<i class="svgIcon header-clearSearch"><svg><use xlink:href="/i/icons.svg#icon-x-button"></use></svg></i>
+			<i class="svgIcon header-openSearch"><svg><use xlink:href="/i/icons.svg#icon-search"></use></svg></i>
+		</form>
+
+		<div class="flex-grow1 hidden-xs"></div>
+	
+        <a class="header-button header-buttonProfile hidden-xxs" href="/sign-in">
+            <img src="/f/users/default.png" />
+        </a>
+		<a class="header-button hidden-xs" href="/sign-in">
+				Sign In
+		</a>
+	
+	</div>
+
+	<div class="header-listsDropDown flexRow">
+		<div>
+			<div class="header-buttonSort selected"
+				onclick="header.redirectToCurrentHeaderSelection();"
+				data-sort="trending">
+				<span class="glyphicon glyphicon-arrow-up "></span> Trending
+			</div>
+			<div class="header-buttonSort"
+				 onclick="header.redirectToCurrentHeaderSelection();"
+				 data-sort="new">
+				<span class="glyphicon glyphicon-time "></span> New
+			</div>
+			<div class="header-buttonSort"
+				onclick="header.redirectToCurrentHeaderSelection();"
+				data-sort="popular">
+				<span class="glyphicon glyphicon-user "></span> Popular
+			</div>
+		</div>
+		<div class="header-listsByCategory header-lists flex-grow1"></div>
+	</div>
+
+	<div class="header-searchResults">
+	</div>
+
+</header>
+
+<div class="menu shadow-8">
+	
+	
+		<a class="menu-link menu-linkFeature menu-linkSignIn" href="/sign-in">
+			<img src="/f/users/default.png" />
+			<div>Sign In</div>
+		</a>
+	
+	<a class="menu-link" href="/create-list"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-add"></use></svg></i> Make a List</a>
+	<a class="menu-link" href="/lists/all/trending"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-todo-list"></use></svg></i> Browse Lists</a>
+	<a class="menu-link" href="/lists/search"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-search"></use></svg></i> Search Lists</a>
+	<a class="menu-link" href="/leaders"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-trophy"></use></svg></i> Leaders</a>
+	<a class="menu-link" href="/help"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-help"></use></svg></i> Help / Contact</a>
+	
+	
+	
+	<a class="menu-link" href="/subscribe"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-new"></use></svg></i> Newsletter</a>
+	
+</div>
+
+    <form method="post" action="./150-famous-male-actors" id="form" novalidate="" onsubmit="return false;">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Iy42psBbzTLWuPDrwvzK68rHRyIJPBW5n9MEaYymSJBXt1gbSQmARh8SuI9MG9EgKFMKcMa9BLYUU9Cova4ZuOnwuV6BRf0mmWw8PdfR54c=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B876C835" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="lwussG+/jWX4CBJEOnacIgNSW0SpbDiIGvFvFBo10GYXd0stZ82DhWVcngMEJN5iZSaRmjxin1Zg790FPv5k3H9Aue7euf+fLu8widz7FmvhBnLd/47qmu341YxySdm096yn71OKKk7yodD/F/58GQ==" />
+</div>
+
+        
+
+        <div id="panelContainer_Master" class="container">
+	
+
+            
+            
+            
+
+            
+
+    <div id="MainContent_divListMaster" class="listMaster">
+
+        <div class="listMaster-listImage" style="background-image: url('/f/lists/3bdf8db9-2902-48f7-9164-6b2965eaf93f.jpg')"></div>
+
+        <div class="checklist-scorePlaceholder"></div>
+
+        <div class="listMaster-listImagePlaceholder"></div>
+
+        <div class="listMaster-belowImage">
+
+            
+
+            <div class="content listMaster-top">
+
+                
+                <div class="fr pl-20 hidden-xs hidden-sm">
+                    <span class="ad-wrapper"><div id="ListMaster1" class="ad-rectangle"></div>
+    <script>
+        window.tude = window.tude || { cmd: [] };
+        tude.cmd.push(function () {
+            tude.refreshAdsViaDivMappings([
+                {
+                    divId: 'ListMaster1',
+                    baseDivId: 'pb-slot-square-1',
+                }
+            ]);
+        });
+    </script></span>
+                </div>
+                
+
+                <h1 class="listMaster-topName">
+                    150 Famous Male Actors
+                    
+                </h1>
+
+                <div class="listMaster-showInfo">
+                    <button type="button" class="btn btn-default btn-xs">show list info</button>
+                </div>
+
+                <div id="MainContent_divDescription" class="listMaster-topDescription">
+                    How many of these actors have you watched in the screens?<br />How many of these have you seen in movies?
+                </div>
+
+                <div class="listMaster-topInfo flexResponsive flexResponsive-no-margin">
+                    <div>
+                        <div>
+                            <span class="glyphicon glyphicon-user"></span>
+                            83,277 users
+							&middot;
+							1,420,190 views
+                        </div>
+                        <div class="flexRow">
+                            <div>
+                                <span class="glyphicon glyphicon-plus-sign"></span>&nbsp;
+                            </div>
+                            <div>
+                                <span class="no-wrap">made by <a href="/profile/462270" class="link" rel="nofollow">Pp &lt;3</a></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div>
+                            <span class="glyphicon glyphicon-stats "></span> avg. score: 41 of 150 (27%)
+                        </div>
+                        <div>
+                            <span class="glyphicon glyphicon-star "></span> required scores: 1, 2, 3, 13, 113&nbsp;
+							<a href="/help#StarRequirements" class="link-999"><span class="glyphicon glyphicon-question-sign"></span></a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="listMaster-shareList mmm">
+                    <div class="sharethis-inline-share-buttons" data-url="https://www.listchallenges.com/150-famous-male-actors"></div>
+                </div>
+
+                <div>
+                    <a onclick="app.redirect(&#39;/lists/similar/377548&#39;);return false;" id="MainContent_buttonSimilarLists" class="btn btn-primary  " formnovalidate="formnovalidate" href="javascript:__doPostBack(&#39;ctl00$ctl00$MainContent$buttonSimilarLists&#39;,&#39;&#39;)"><span class='glyphicon glyphicon-asterisk' style='color:#edeb40'></span> similar lists <span class="glyphicon glyphicon-chevron-right "></span></a>
+                </div>
+
+            </div>
+
+
+            <div id="MainContent_navsListPages" class="tabs listMaster-tabs">
+                <a href="/150-famous-male-actors" class=" active"  rel="nofollow">list</a>
+                <a href="/150-famous-male-actors/stats"   rel="nofollow">stats</a>
+                <a href="/150-famous-male-actors/leaders"   rel="nofollow">leaders</a>
+                <a href="/150-famous-male-actors/vote"   rel="nofollow"><span class="hidden-xs">vote</span><span class="visible-xs">Vote</span></a>
+                <a href="/print-list/377548"   target="_blank" rel="nofollow">print</a>
+                <a href="/150-famous-male-actors/comments"   rel="nofollow">comments</a>
+            </div>
+
+            <div id="listMasterContentWrapper" class="clearfix">
+                
+
+    <div class="checklist-starAnimated">
+        <span class="glyphicon glyphicon-star "></span> 
+    </div>
+
+    <div class="checklist">
+
+        <div class="checklist-content content clearfix">
+
+            <div class="checklist-search">
+                <input class="checklist-input" autocomplete="off" type="search" maxlength="100" placeholder="search list items" />
+                <i class="svgIcon checklist-clearSearch"><svg><use xlink:href="/i/icons.svg#icon-x-button"></use></svg></i>
+                <i class="svgIcon checklist-openSearch"><svg><use xlink:href="/i/icons.svg#icon-search"></use></svg></i>
+                <div class="checklist-searchResults shadow-3 ">
+                    <div class="message">type to search</div>
+                </div>
+            </div>
+
+            <h3 class="checklist-question">
+                How many have you seen?
+            </h3>
+
+            
+
+            <div class="checklist-paging clearfix">
+
+                <div class="checklist-pageTop">
+                    Page 1 of 4
+                </div>
+
+                <div id="MainContent_MainContent_pager" class="pager"><a href="/150-famous-male-actors" class="active">1</a><a href="/150-famous-male-actors/list/2" >2</a><a href="/150-famous-male-actors/list/3" >3</a><a href="/150-famous-male-actors/list/4" >4</a></div>
+
+            </div>
+
+            <div class="checklist-itemsSection">
+
+                <div class="checklist-itemsSectionLeft square-images">
+
+                    <div class="checklist-listItems">
+
+                        <div id="MainContent_MainContent_itemRepeater_repeater" class="clearfix items-grid items-container square-images items-container-cursor-pointer" >
+        <div class="item even" data-item-id="2080896" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/26fad398-238e-4d27-bf7e-46321b7b3d58.jpg" alt="Tom Hanks" />
+                    </div>
+                </div>
+                <div class="item-name">Tom Hanks</div>
+                <div class="item-rank">1</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="34990" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/9c7f8ebc-3419-45fe-beb6-9d56478d40c6.jpg" alt="Arnold Schwarzenegger" />
+                    </div>
+                </div>
+                <div class="item-name">Arnold Schwarzenegger</div>
+                <div class="item-rank">2</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2091988" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/99d47faa-2dad-4dba-8f49-22eb85e0fb58.jpg" alt="Bruce Willis" />
+                    </div>
+                </div>
+                <div class="item-name">Bruce Willis</div>
+                <div class="item-rank">3</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="15291" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/ba01b896-64e4-4974-83a7-769565c47551.jpg" alt="Sylvester Stallone" />
+                    </div>
+                </div>
+                <div class="item-name">Sylvester Stallone</div>
+                <div class="item-rank">4</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2487813" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/3c16072e-9c5e-4b14-b93a-7f3723d470c4.jpg" alt="Brad Pitt" />
+                    </div>
+                </div>
+                <div class="item-name">Brad Pitt</div>
+                <div class="item-rank">5</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2369904" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/b030e0e3-2e4d-441d-9ad2-d411ef825c35.jpg" alt="Tom Cruise" />
+                    </div>
+                </div>
+                <div class="item-name">Tom Cruise</div>
+                <div class="item-rank">6</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="10846" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items-dl/8341a1c7-9c1e-4eac-a352-ac325d7e88d6.jpg" alt="Jason Statham" />
+                    </div>
+                </div>
+                <div class="item-name">Jason Statham</div>
+                <div class="item-rank">7</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2465163" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img src="/f/items/b25d27a3-9751-4a60-a627-6983f154d025.jpg" alt="Hugh Jackman" />
+                    </div>
+                </div>
+                <div class="item-name">Hugh Jackman</div>
+                <div class="item-rank">8</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        <span class="ad-wrapper"><div id="Checklist1" class="ad-aptitude-responsive"></div>
+    <script>
+        window.tude = window.tude || { cmd: [] };
+        tude.cmd.push(function () {
+            tude.refreshAdsViaDivMappings([
+                {
+                    divId: 'Checklist1',
+                    baseDivId: 'pb-slot-incontent-1',
+                }
+            ]);
+        });
+    </script></span>
+    
+        <div class="item even" data-item-id="2092766" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/e9061226-2362-4f31-89a4-c5b27b00cd5c.jpg" src="/i/b.png" alt="Robert Downey Jr" />
+                    </div>
+                </div>
+                <div class="item-name">Robert Downey Jr</div>
+                <div class="item-rank">9</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2659122" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/52642fc9-8dae-4eeb-b9e2-ac584a716863.jpg" src="/i/b.png" alt="Clint Eastwood" />
+                    </div>
+                </div>
+                <div class="item-name">Clint Eastwood</div>
+                <div class="item-rank">10</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="194847" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items-dl/7b683a78-16fe-4bf4-bc6c-0de4576094cb.jpg" src="/i/b.png" alt="Woody Harrelson" />
+                    </div>
+                </div>
+                <div class="item-name">Woody Harrelson</div>
+                <div class="item-rank">11</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="15259" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/2101b1c1-a8f2-4cfc-ba47-6af400f6e351.jpg" src="/i/b.png" alt="Owen Wilson" />
+                    </div>
+                </div>
+                <div class="item-name">Owen Wilson</div>
+                <div class="item-rank">12</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="15286" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/257e9259-1964-48f4-8707-314bb9e5e93f.jpg" src="/i/b.png" alt="Mel Gibson" />
+                    </div>
+                </div>
+                <div class="item-name">Mel Gibson</div>
+                <div class="item-rank">13</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="607493" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items-dl/3fdc7b55-5cff-457d-9cab-be609b56e0a3.jpg" src="/i/b.png" alt="Hugh Grant" />
+                    </div>
+                </div>
+                <div class="item-name">Hugh Grant</div>
+                <div class="item-rank">14</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2897720" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/a6423529-2ff5-4796-899b-961af90065d6.jpg" src="/i/b.png" alt="Colin Firth" />
+                    </div>
+                </div>
+                <div class="item-name">Colin Firth</div>
+                <div class="item-rank">15</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="168503" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/873c84f1-0ef3-4127-b212-0961e61f81f8.jpg" src="/i/b.png" alt="Ben Kingsley" />
+                    </div>
+                </div>
+                <div class="item-name">Ben Kingsley</div>
+                <div class="item-rank">16</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="236139" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/f5e4b302-4cff-4776-9746-2b99f7c84225.jpg" src="/i/b.png" alt="Tom Hiddleston" />
+                    </div>
+                </div>
+                <div class="item-name">Tom Hiddleston</div>
+                <div class="item-rank">17</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2845528" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/e9181fbf-01fc-4ce9-b85d-3f692419f6c4.jpg" src="/i/b.png" alt="Jake Gyllenhaal" />
+                    </div>
+                </div>
+                <div class="item-name">Jake Gyllenhaal</div>
+                <div class="item-rank">18</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2092758" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/2f5cac25-df42-4817-af3d-16b3cfc56d74.jpg" src="/i/b.png" alt="Chris Hemsworth" />
+                    </div>
+                </div>
+                <div class="item-name">Chris Hemsworth</div>
+                <div class="item-rank">19</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2484283" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/c0057a2d-2fd9-4960-afba-48f97dd5de89.jpg" src="/i/b.png" alt="Gary Oldman" />
+                    </div>
+                </div>
+                <div class="item-name">Gary Oldman</div>
+                <div class="item-rank">20</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        <span class="ad-wrapper"><div id="Checklist2" class="ad-aptitude-responsive"></div>
+    <script>
+        window.tude = window.tude || { cmd: [] };
+        tude.cmd.push(function () {
+            tude.refreshAdsViaDivMappings([
+                {
+                    divId: 'Checklist2',
+                    baseDivId: 'pb-slot-incontent-2',
+                }
+            ]);
+        });
+    </script></span>
+    
+        <div class="item even" data-item-id="23450" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/4ba46ca7-4ecd-4aca-98bf-936ba114ffcd.jpg" src="/i/b.png" alt="Johnny Depp" />
+                    </div>
+                </div>
+                <div class="item-name">Johnny Depp</div>
+                <div class="item-rank">21</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2591143" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/58d5a0c6-6741-4240-8283-2e0897799e86.jpg" src="/i/b.png" alt="Chris Evans" />
+                    </div>
+                </div>
+                <div class="item-name">Chris Evans</div>
+                <div class="item-rank">22</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="463275" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/360a8c51-158f-4d22-a65b-2aa5f900816a.jpg" src="/i/b.png" alt="Daniel Craig" />
+                    </div>
+                </div>
+                <div class="item-name">Daniel Craig</div>
+                <div class="item-rank">23</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="1775501" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items-dl/97095e0b-9d97-46a8-8565-58550c0aeb36.jpg" src="/i/b.png" alt="Pierce Brosnan" />
+                    </div>
+                </div>
+                <div class="item-name">Pierce Brosnan</div>
+                <div class="item-rank">24</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2031396" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/c5deaf04-678f-4323-80d9-6a53eca9a466.jpg" src="/i/b.png" alt="Will Smith" />
+                    </div>
+                </div>
+                <div class="item-name">Will Smith</div>
+                <div class="item-rank">25</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="100005" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/f6044413-d3dd-4b56-aa5f-82b15166ff61.jpg" src="/i/b.png" alt="Alec Baldwin" />
+                    </div>
+                </div>
+                <div class="item-name">Alec Baldwin</div>
+                <div class="item-rank">26</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2092777" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/46f23a09-ee31-4dc5-92a8-4d91c17d192b.jpg" src="/i/b.png" alt="Jackie Chan" />
+                    </div>
+                </div>
+                <div class="item-name">Jackie Chan</div>
+                <div class="item-rank">27</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="3462620" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/9d102ae1-faf3-4d32-9dc0-f9a67647fa0f.jpg" src="/i/b.png" alt="Cillian Murphy" />
+                    </div>
+                </div>
+                <div class="item-name">Cillian Murphy</div>
+                <div class="item-rank">28</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2857449" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/39599b15-074e-4ceb-8b96-48c492e7c3fd.jpg" src="/i/b.png" alt="Patrick Dempsey" />
+                    </div>
+                </div>
+                <div class="item-name">Patrick Dempsey</div>
+                <div class="item-rank">29</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2092753" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/df705180-4b6a-4a8a-8fbe-7d0ccefd57f2.jpg" src="/i/b.png" alt="Colin Farrell" />
+                    </div>
+                </div>
+                <div class="item-name">Colin Farrell</div>
+                <div class="item-rank">30</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="15070" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/b097aa4d-885b-404b-b5d4-5c9e15828d88.jpg" src="/i/b.png" alt="George Clooney" />
+                    </div>
+                </div>
+                <div class="item-name">George Clooney</div>
+                <div class="item-rank">31</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="1543235" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/59291dff-3555-4c2f-84d9-30dede30839d.jpg" src="/i/b.png" alt="Matthew McConaughey" />
+                    </div>
+                </div>
+                <div class="item-name">Matthew McConaughey</div>
+                <div class="item-rank">32</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        <span class="ad-wrapper"><div id="Checklist3" class="ad-aptitude-responsive"></div>
+    <script>
+        window.tude = window.tude || { cmd: [] };
+        tude.cmd.push(function () {
+            tude.refreshAdsViaDivMappings([
+                {
+                    divId: 'Checklist3',
+                    baseDivId: 'pb-slot-incontent-3',
+                }
+            ]);
+        });
+    </script></span>
+    
+        <div class="item even" data-item-id="2091987" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/d8f9a63c-48e6-4c86-ac9e-beffd39f29b7.jpg" src="/i/b.png" alt="Ben Affleck" />
+                    </div>
+                </div>
+                <div class="item-name">Ben Affleck</div>
+                <div class="item-rank">33</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="15283" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/d9d40f28-d82b-442a-a9d7-e9a2232fa377.jpg" src="/i/b.png" alt="Liam Neeson" />
+                    </div>
+                </div>
+                <div class="item-name">Liam Neeson</div>
+                <div class="item-rank">34</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="2888667" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/4794fdc1-4f3b-4693-93f7-436e8bd70bc8.jpg" src="/i/b.png" alt="Kurt Russell" />
+                    </div>
+                </div>
+                <div class="item-name">Kurt Russell</div>
+                <div class="item-rank">35</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2857433" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/68d83c3e-84bf-450a-9b77-aa5ee1fd3fb2.jpg" src="/i/b.png" alt="Daniel Radcliffe" />
+                    </div>
+                </div>
+                <div class="item-name">Daniel Radcliffe</div>
+                <div class="item-rank">36</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="473157" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items-dl/366f12ca-a897-4680-a83b-51c66f9bb90a.jpg" src="/i/b.png" alt="Keanu Reeves" />
+                    </div>
+                </div>
+                <div class="item-name">Keanu Reeves</div>
+                <div class="item-rank">37</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="1305893" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/4558c181-e548-4f69-844b-57c7f78f0937.jpg" src="/i/b.png" alt="Tim Allen" />
+                    </div>
+                </div>
+                <div class="item-name">Tim Allen</div>
+                <div class="item-rank">38</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item even" data-item-id="247818" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/1b8c47bc-ff89-4c7a-ba22-ed108738e362.jpg" src="/i/b.png" alt="Rupert Grint" />
+                    </div>
+                </div>
+                <div class="item-name">Rupert Grint</div>
+                <div class="item-rank">39</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    
+        <div class="item odd" data-item-id="2488290" data-category-id="16">
+            
+            <div class="item-click-area" role="button" tabindex="0">
+                <div class="item-top">
+                    <span class="item-button item-button-info glyphicon glyphicon-info-sign"></span><span class="item-button item-button-todo glyphicon glyphicon-bookmark"></span><span class="item-button item-button-favorite glyphicon glyphicon-heart"></span>
+                </div>
+                <div class="item-image-wrapper">
+                    <div>
+                        <img class="lazy-load" data-src="/f/items/46aa4f76-bd8d-4f66-bd94-ce5c5efab1ff.jpg" src="/i/b.png" alt="Adam Sandler" />
+                    </div>
+                </div>
+                <div class="item-name">Adam Sandler</div>
+                <div class="item-rank">40</div>
+                <div class="item-checkbox"></div>
+                
+                
+                
+                
+            </div>
+        </div>
+        
+    </div>
+
+                    </div>
+
+                    
+
+                    <div class="pageButtons  pageButtons-showNext">
+                        <div class="pageButtons-page">
+                            Page 1 of 4
+                        </div>
+                        <button type="button" class="btn btn-default btn-lg pageButtons-previous"><span class="glyphicon glyphicon-arrow-left"></span>Previous</button>
+                        <button type="button" class="btn btn-primary btn-lg pageButtons-next">Next Page <span class="glyphicon glyphicon-arrow-right"></span></button>
+                    </div>
+
+                    
+
+                </div>
+
+               <div id="MainContent_MainContent_checklistSkyscraperDiv" class="checklist-itemsSectionRight">
+                    <span class="ad-wrapper"><div id="ChecklistSkyscraper" class="ad-skyscraper visible-md visible-lg" style="width: 160px; height: 600px;"></div>
+    <script>
+        window.tude = window.tude || { cmd: [] };
+        tude.cmd.push(function () {
+            tude.refreshAdsViaDivMappings([
+                {
+                    divId: 'ChecklistSkyscraper',
+                    baseDivId: 'pb-slot-left-1',
+                }
+            ]);
+        });
+    </script></span>
+               </div>
+
+            </div>
+
+            <div class="cb" id="divEndListItems"></div>
+
+        </div>
+
+        <div class="checklistScore">
+            <div class="checklistScore-content shadow-4">
+                <div class="checklistScore-top">
+                    <span class="checklistScore-score"></span>
+                    <button type="button" class="btn btn-xs btn-primary checklistScore-viewDetails" onclick="checklist.viewScoreDetailsClick();">
+                        show results
+                    </button>
+                    <button type="button" class="btn btn-xs btn-primary checklistScore-save" onclick="checklist.saveClick();">
+                        save
+                    </button>
+                </div>
+                <div class="checklistScore-progress">
+                    <div class="checklistScore-progressBlue"></div>
+                    <span class="checklistScore-message">
+                        Click things you've done
+                    </span>
+                    <span class="glyphicon glyphicon-trash checklistScore-delete" onclick="app.openModal('modalDeleteScore');"></span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    
+
+
+    <div class="modal" id="modalDeleteScore" role="dialog" aria-hidden="true" onclick="app.closeModal(event);">
+        <div class="modal-content modal-sm" style="">
+            <div class="modal-header">
+                <span class="close" onclick="app.closeModal();"></span>
+                <h3>Confirm Delete Score</h3>
+            </div>
+            <div class="modal-body">
+                <div class="mmm">
+                    Are you sure you want to delete your score and checked items on this list? This cannot be undone.
+                </div>
+                <button type="button" class="btn btn-default" onclick="app.closeModal();">cancel</button>
+                <button type="button" class="btn btn-danger l" onclick="checklist.deleteClick();">delete my score</button>
+            </div>
+        </div>
+    </div>
+
+
+            </div>
+
+            
+
+<div class="content listsMini">
+	<div class="h2 m">
+        Trending Other Lists
+	</div>
+
+	<div id="MainContent_listsMini_listRepeater_repeater" class="list-repeater clearfix" >
+		<div class="list-repeater-list" data-list-id="673623">
+			<a class="listCard" href="/how-many-of-the-top-100-girls-names-do-you" >
+				<div class="list-image-wrapper"><img alt="How Many of the Top 100 Girl&amp;#39;s Names Do You Know Someone Named That?" src="/f/lists-330/8a9e9d4b-a65b-4394-8668-cb397cffb29e.jpg" /></div>
+				<div class="list-name">How Many of the Top 100 Girl&#39;s Names Do You Know Someone Named That?</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 1,239
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 100
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="713449">
+			<a class="listCard" href="/all-the-best-board-games" >
+				<div class="list-image-wrapper"><img alt="All the Best Board Games!" src="/f/lists-330/34b1eaf7-2e85-453b-9532-180f9be36bf7.jpg" /></div>
+				<div class="list-name">All the Best Board Games!</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 421
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 100
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="674196">
+			<a class="listCard" href="/ranker-the-greatest-motown-artists-of-all-time" >
+				<div class="list-image-wrapper"><img alt="Ranker: The Greatest Motown Artists of All Time" src="/f/lists-330/1dc4eec7-907b-4104-a933-ae34eea6a294.jpg" /></div>
+				<div class="list-name">Ranker: The Greatest Motown Artists of All Time</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 156
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 52
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="427617">
+			<a class="listCard" href="/acclaimedmusicnet-top-3000-albums-of-all-time" >
+				<div class="list-image-wrapper"><img alt="Acclaimedmusic.Net - Top 3000 Albums of All Time (29.11.2020)" src="/f/lists-330/d050b8f3-8355-4e9b-9400-bcc96a23e339.jpg" /></div>
+				<div class="list-name">Acclaimedmusic.Net - Top 3000 Albums of All Time (29.11.2020)</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 262
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 3000
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="654147">
+			<a class="listCard" href="/unhinged-hear-me-out-characters" >
+				<div class="list-image-wrapper"><img alt="Unhinged Hear Me Out Characters" src="/f/lists-330/fa726f3c-f409-4a73-b469-c6f83a0754fc.jpg" /></div>
+				<div class="list-name">Unhinged Hear Me Out Characters</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 2,434
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 291
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="66479">
+			<a class="listCard" href="/1001-albums-you-must-hear-before-you-die-2016" >
+				<div class="list-image-wrapper"><img alt="1001 Albums You Must Hear Before You Die" src="/f/lists-330/d7491e07-ece3-426a-b3b9-83dacd87d9f5.jpg" /></div>
+				<div class="list-name">1001 Albums You Must Hear Before You Die</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 107,102
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 1001
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="726272">
+			<a class="listCard" href="/summer-things-to-do" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Summer Things to Do!" data-src="/f/lists-330/4a22a6f4-f6e8-436b-aa0c-b1eaf9008099.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Summer Things to Do!</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 35
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 60
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="77841">
+			<a class="listCard" href="/an-anime-checklist" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="An Anime Checklist" data-src="/f/lists-330/bbafd1b9-2b6c-4ac5-ad2a-2ac0fef1acbf.jpg" src="/i/b.png" /></div>
+				<div class="list-name">An Anime Checklist</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 36,457
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 144
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="494853">
+			<a class="listCard" href="/1001-albums-you-must-hear-before-you-die-every" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="1001 Albums You Must Hear Before You Die All Editions as of 2023" data-src="/f/lists-330/d8de1415-42bc-429a-925f-93766ca29c55.jpg" src="/i/b.png" /></div>
+				<div class="list-name">1001 Albums You Must Hear Before You Die All Editions as of 2023</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 3,491
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 1089
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="725973">
+			<a class="listCard" href="/tv-characters-everyone-recognizes-even-if-they" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="&amp;quot;TV Characters Everyone Recognizes (Even If They Haven&amp;#39;t Seen the Show)&amp;quot;" data-src="/f/lists-330/867155c5-bda7-46bb-b700-05b2e6c7717c.jpg" src="/i/b.png" /></div>
+				<div class="list-name">&quot;TV Characters Everyone Recognizes (Even If They Haven&#39;t Seen the Show)&quot;</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 80
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 100
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="549048">
+			<a class="listCard" href="/best-bucket-list-aesthetic-version-3" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Best Bucket List: Aesthetic Version &amp;lt;3" data-src="/f/lists-330/c555db7a-a9b2-4a74-94f1-c2d83755af7e.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Best Bucket List: Aesthetic Version &lt;3</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 511
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 1461
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="726110">
+			<a class="listCard" href="/things-that-have-totally-different-names" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Things That Have Totally Different Names Depending on Where in the US You&amp;#39;re From" data-src="/f/lists-330/e4a3579d-8ee7-4382-9b77-868b1928b407.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Things That Have Totally Different Names Depending on Where in the US You&#39;re From</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 56
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 34
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="377548">
+			<a class="listCard" href="/150-famous-male-actors" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="150 Famous Male Actors" data-src="/f/lists-330/3bdf8db9-2902-48f7-9164-6b2965eaf93f.jpg" src="/i/b.png" /></div>
+				<div class="list-name">150 Famous Male Actors</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 83,277
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 150
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="79451">
+			<a class="listCard" href="/names-names-and-more-names" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Names, Names and More Names" data-src="/f/lists-330/d9dad07f-eb26-459c-b05c-fefac91b07e9.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Names, Names and More Names</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 565
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 679
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="725928">
+			<a class="listCard" href="/animals-that-often-get-confused-with-each-other" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Animals That Often Get Confused With Each Other" data-src="/f/lists-330/b73c1e83-ed6e-4e2d-9ce7-8cc7da5921a8.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Animals That Often Get Confused With Each Other</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 39
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 55
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="726116">
+			<a class="listCard" href="/best-dresses-from-movies-according-to-chat-gpt" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Best Dresses From Movies According to Chat Gpt" data-src="/f/lists-330/9b73585d-2410-41ae-b56e-f285681122b9.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Best Dresses From Movies According to Chat Gpt</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 43
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 40
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="384655">
+			<a class="listCard" href="/1001-albums-you-must-hear-before-you-die-2021up" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="1001 Albums You Must Hear Before You Die (All Editions, Updated 2021 Version)" data-src="/f/lists-330/2f3cabb0-9dfb-406a-8efa-a0209ea5c1ae.jpg" src="/i/b.png" /></div>
+				<div class="list-name">1001 Albums You Must Hear Before You Die (All Editions, Updated 2021 Version)</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 3,903
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 1089
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="725454">
+			<a class="listCard" href="/albums-with-black-covers" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Albums With Black Covers" data-src="/f/lists-330/60f67ce5-c69f-433f-894a-56e0ac8e1c97.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Albums With Black Covers</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 20
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 100
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="725529">
+			<a class="listCard" href="/having-a-4th-of-july-celebration" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Having a 4th of July Celebration!" data-src="/f/lists-330/cd0715d3-30ea-4156-82c6-6db887e6f043.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Having a 4th of July Celebration!</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 121
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 52
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="726283">
+			<a class="listCard" href="/100-greatest-films-of-the-20th-century" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="100 Greatest Films of the 20th Century" data-src="/f/lists-330/74951209-692f-4635-910b-395558f2313e.jpg" src="/i/b.png" /></div>
+				<div class="list-name">100 Greatest Films of the 20th Century</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 17
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 100
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="9061">
+			<a class="listCard" href="/top-500-imdb-best-tv-shows-at-least-5000-votes" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="Top 500 IMDb Best TV Shows (At Least 5,000 Votes)" data-src="/f/lists-330/91d98eb1-afb6-4eac-bf3a-4a755b1b3afd.jpg" src="/i/b.png" /></div>
+				<div class="list-name">Top 500 IMDb Best TV Shows (At Least 5,000 Votes)</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 4,652
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 500
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	
+		<div class="list-repeater-list" data-list-id="134672">
+			<a class="listCard" href="/the-100-greatest-bands-of-all-time" >
+				<div class="list-image-wrapper"><img class="lazy-load" alt="The 100 Greatest Bands of All Time" data-src="/f/lists-330/71fdb4fc-60f8-4869-bd54-1042b397a464.jpg" src="/i/b.png" /></div>
+				<div class="list-name">The 100 Greatest Bands of All Time</div>
+				<div class="list-repeater-info">
+					<div class="list-repeater-info-left">
+						<span class="glyphicon glyphicon-user"></span> 3,925
+					</div>
+					<div class="list-repeater-info-middle">
+						
+					</div>
+					<div class="list-repeater-info-right">
+						<span class="glyphicon glyphicon-th-large "></span> 100
+					</div>
+				</div>
+				
+			</a>
+		</div>
+		
+	</div>
+
+	<a onclick="app.redirect(&#39;/lists/other&#39;);return false;" id="MainContent_listsMini_buttonAll" class="btn btn-primary btn-lg  listsMini-button" formnovalidate="formnovalidate" href="javascript:__doPostBack(&#39;ctl00$ctl00$MainContent$listsMini$buttonAll&#39;,&#39;&#39;)" style="display:inline-block;width:280px;">All Trending Other Lists <span class="glyphicon glyphicon-chevron-right "></span></a>
+</div>
+
+            <img src="/i/cb-bg-checked.png" class="hidden" />
+
+        </div>
+
+    </div>
+
+
+
+            <div class="hhhh cb"></div>
+
+            
+            <footer>
+                <div class="content-wrapper">
+                    <div class="social">
+                        <a href="https://www.facebook.com/listchallenges"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-facebook-circled"></use></svg></i></a>
+                        <a href="https://www.pinterest.com/listchallenges"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-pinterest-logo"></use></svg></i></a>
+                        
+                        <a href="https://www.youtube.com/channel/UC2nCmL5P2aH3KDYiNmJGljw"><i class="svgIcon "><svg><use xlink:href="/i/icons.svg#icon-youtube-play-button-logo"></use></svg></i></a>
+                    </div>
+                    <div class="text">
+                        <a href="/subscribe">Newsletter</a> &middot;
+						<a href="/help">Help/Contact</a> &middot;
+						<a href="/privacy">Privacy</a> &middot;
+						<a href="/contact/copyright">Copyright&nbsp;Claim</a>&nbsp;&nbsp;
+						<div class="hidden-lg"></div>
+                        &copy;&nbsp;2025 App Spring, Inc.
+						&middot;
+						This product uses the <a href="https://www.themoviedb.org" target="_blank">TMDb&nbsp;API</a> but is not endorsed or certified by TMDb.
+                    </div>
+                    <div class="h-30"></div>
+                    <a href="https://seenit.fun" style="text-align: left; white-space: nowrap; margin-right: 16px; display: inline-block; border: 1px solid #888; border-radius: 6px; padding: 2px; background-color: #f6f6f6; vertical-align: middle">
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="/i/icons/seenitlogo256.png" style="width: 40px; height: 40px; border-radius: 6px; margin-right: 8px" /></td>
+                                <td>
+                                    <div style="font-size: 16px">Seen It - Movies & TV&nbsp;</div>
+                                    <div style="font-size: 12px">Android & iOS</div>
+                                </td>
+                            </tr>
+                        </table>
+                    </a>
+                    <div class="text" style="margin-top: 8px">
+                        Seen It is a new app from the creators of List Challenges. You can view movies and shows in one place and filter by streaming provider, genre, release year, runtime, and rating (Rotten Tomatoes, Imdb, and/or Metacritic). Also, you can track what you've seen, want to see, like, or dislike, as well as track individual seasons or episodes of shows. In addition, you can see the most watched/liked stuff amongst your friends. Learn more at <a href="https://seenit.fun" class="link">SEENIT.FUN</a>
+                    </div>
+                </div>
+            </footer>
+
+        
+</div>
+
+
+        
+
+
+        
+
+        
+       
+
+        
+
+        <div class="modal modal-lg" id="modalItemInfo" role="dialog" aria-hidden="true" onclick="app.closeModal(event);">
+            <div class="modal-content" style="">
+                <div class="modal-header">
+                    <span class="close" onclick="app.closeModal();"></span>
+                    <h3>Item Info</h3>
+                </div>
+                <div class="modal-body">
+                </div>
+            </div>
+        </div>
+
+
+        
+
+        <script>
+SERVER_APP = {
+  "Version": "1.1",
+  "RequiredComponents": [
+    "checklist",
+    "listMaster",
+    "header"
+  ],
+  "DisplayDebug": false,
+  "IsSoundOn": false,
+  "UserLoggedIn": false,
+  "UserIsAdmin": false,
+  "FirstTimeVisitor": true
+};
+SERVER_PAGE = {
+  "HintText": "Click things you've done",
+  "PageCount": 4,
+  "ThisPageItemCount": 40,
+  "CurrentPage": 1,
+  "IsLastPage": false,
+  "ListPath": "/150-famous-male-actors",
+  "ListImageUrl": "https://www.listchallenges.com/f/lists/3bdf8db9-2902-48f7-9164-6b2965eaf93f.jpg",
+  "ListItemCount": 150,
+  "UserCount": 83277,
+  "RequiredScores": [
+    1,
+    2,
+    3,
+    13,
+    113
+  ],
+  "AvgScore": 41,
+  "HasListScore": false,
+  "UserListScore": 0,
+  "UserListRankTopPercent": 0.0,
+  "UserListCompleted": false,
+  "ListUrl": "https://www.listchallenges.com/150-famous-male-actors",
+  "ListId": 377548
+};
+Domain='www.listchallenges.com';Device='desktop';LoggedIn=false;
+</script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+        <script src="/bundles/app-scripts?v=qwhjZF4JhHsIVDNn3FVq2sg-2J822Pt1W1M4KGLkpBY1"></script>
+
+
+        
+
+        <script>
+            $(function () {
+                app.$onInit();
+            });
+        </script>
+
+        
+
+    
+
+
+
+
+        
+        
+
+    </form>
+
+</body>
+</html>
